@@ -32,7 +32,7 @@ export const DEFAULT_COUNTRY = 'au';
 
 export const METADATA_ANALYTICS_TAGS = 'analytics-tags';
 
-const TARGET_TENANT = 'bitdefender';
+const TARGET_TENANT = 'sitesinternal';
 
 const HREFLANG_MAP = [
   ['en-ro', { baseUrl: 'https://www.bitdefender.ro', pageType: '.html' }],
